@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { CartContext } from "../context/CartContext";
-// import { FaTrash } from "react-icons/fa";
+import { FaTrash } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 function Cart() {
