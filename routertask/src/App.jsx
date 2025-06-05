@@ -8,7 +8,7 @@ import Checkout from './pages/Checkout'
 import ProductDetail from './pages/ProuctDetails'
 import NotFound from './pages/NotFound'
 import Login from './pages/Login'
-import Signin from './pages/SignIn'
+import Signin from './pages/Signin'
 import { CartProvider } from './context/CartContext'
 
 
